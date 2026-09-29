@@ -18,5 +18,3 @@ for i in range(n):
 
 result = selection_sort(arr)
 print(f"Sorted array : {result}")
-
-

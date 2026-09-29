@@ -5,6 +5,7 @@ def lin_search(arr, key):
             return
     print(f"{key} not found")
 
+
 n = int(input("Enter the number of elements: "))
 
 arr = []
@@ -16,4 +17,3 @@ for i in range(n):
 key = int(input("Enter the key: "))
 
 result = lin_search(arr, key)
-

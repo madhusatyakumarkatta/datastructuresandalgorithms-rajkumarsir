@@ -19,6 +19,3 @@ for i in range(n):
 
 result = insertion_sort(arr)
 print(f"Sorted array : {result}")
-
-
-5

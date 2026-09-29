@@ -18,4 +18,3 @@ if result_index != -1:
     print(f"Employee ID {search_id} found at index {result_index}.")
 else:
     print(f"Employee ID {search_id} not found in the HR system.")
-88

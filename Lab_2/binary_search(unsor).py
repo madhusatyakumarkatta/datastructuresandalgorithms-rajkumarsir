@@ -18,14 +18,7 @@ arr = []
 print("Enter elements:")
 for i in range(n):
     arr.append(int(input()))
-if arr == sorted(arr):
-    print("\n input list is already sorted")
-else:
-    print("input list is not sorted")
-    print("sorting list....")
-    arr.sort()
-    print(f"Sorted List : {arr}")
-
+    
 key = int(input("Enter the key: "))
 
 result = bin_search(arr, key)
