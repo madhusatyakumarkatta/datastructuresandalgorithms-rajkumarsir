@@ -1,6 +1,7 @@
+﻿print("Madhu Satyakumar ")
 def rocket_countdown(n):
     if n == 0:
-        print("LAUNCHED! 🚀")
+        print("LAUNCHED! ðŸš€")
         return
     
     print(n)

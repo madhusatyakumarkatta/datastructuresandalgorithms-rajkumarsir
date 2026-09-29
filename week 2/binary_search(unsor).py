@@ -1,3 +1,4 @@
+﻿print("Madhu Satyakumar ")
 def bin_search(arr,key):
     low = 0
     high = len(arr) - 1
